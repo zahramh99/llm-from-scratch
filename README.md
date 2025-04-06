@@ -14,9 +14,3 @@ This project implements a basic transformer-based language model from scratch.
 1. Install requirements: `pip install -r requirements.txt`
 2. Train model: `python train.py`
 3. Run predictions: `python predict.py`
-
-## Installation
-```bash
-git clone [your-repo-url]
-cd llm-from-scratch
-pip install -r requirements.txt
